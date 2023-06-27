@@ -1,0 +1,7 @@
+/node_modules
+/upload
+
+google-ocr-credentials.json
+
+yarn-error.log
+yarn.lock
